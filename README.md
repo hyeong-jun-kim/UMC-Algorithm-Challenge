@@ -4,6 +4,7 @@
 
 - 기간 : 2022년 4월 15일 ~ 4월 28일 (2주)
 - 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/)
+- 유형 : 완전 탐색, DFS/BFS
 
 ## 챌린지 규칙
 
@@ -35,6 +36,6 @@
 
 #### 1차 : 코딩테스트 고득점 Kit (프로그래머스)
 
-| **주차** | **폴더명**| **문제 1**| **문제 2**| **문제 3**| **문제 4**| **문제 5**| **문제 6**| **문제 7**| **진행 현황** |
-| 1주차    | brute_force              | [부등호](https://www.acmicpc.net/problem/2529) | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [행운의 문자열](https://www.acmicpc.net/problem/1342) | [암호 만들기](https://www.acmicpc.net/problem/1759) | [테트로미노](https://www.acmicpc.net/problem/14500) |                                                              | `진행 예정`   |
-| 2주차    | dfs/bfs         | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [안전영역](https://www.acmicpc.net/problem/2468) | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [연구소](https://www.acmicpc.net/problem/14502) | [토마토](https://www.acmicpc.net/problem/7576) | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |                                                              | `진행 예정`   |            
+|**주차**| **폴더명**|**문제 1**|**문제 2**|**문제 3**|**문제 4**|**문제 5**|**문제 6**|**문제 7**|**진행 현황**|
+| 1주차|brute_force|[부등호](https://www.acmicpc.net/problem/2529)|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[소수&팰린드롬](https://www.acmicpc.net/problem/1747)|[행운의 문자열](https://www.acmicpc.net/problem/1342)|[암호 만들기](https://www.acmicpc.net/problem/1759)|[테트로미노](https://www.acmicpc.net/problem/14500)| `진행 예정`|
+| 2주차    | dfs/bfs         | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [안전영역](https://www.acmicpc.net/problem/2468) | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [연구소](https://www.acmicpc.net/problem/14502) | [토마토](https://www.acmicpc.net/problem/7576) | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |                                                               `진행 예정`   |            
