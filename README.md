@@ -2,7 +2,7 @@
 
 > UMC 알고리즘 2주 챌린지
 
-- 기간 : 2022년 4월 15일 ~ 4월 28일 (2주)
+- 기간 : 2022년 5월 1일 ~ 5월 14일 (2주)
 - 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/)
 - 유형 : 완전 탐색, DFS/BFS
 - 난이도 : 백준 - Silver2 ~ Gold5, 프로그래머스 - level2 ~ level3
